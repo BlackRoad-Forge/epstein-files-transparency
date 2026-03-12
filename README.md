@@ -1,5 +1,11 @@
 # Epstein Files Transparency Archive
 
+[![Documents](https://img.shields.io/badge/documents-DOJ_indexed-FF6B2B.svg)](https://blackboxprogramming.github.io)
+[![Open Data](https://img.shields.io/badge/open-data-00D4FF.svg)](https://blackroad.io)
+[![FOIA](https://img.shields.io/badge/FOIA-transparency-3776AB.svg)](https://blackroad.io)
+
+
+
 > **"No record shall be withheld, delayed, or redacted on the basis of embarrassment, reputational harm, or political sensitivity."**  
 > — Epstein Files Transparency Act (H.R. 4405)
 
